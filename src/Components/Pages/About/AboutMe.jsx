@@ -1,6 +1,6 @@
 import SharedSelectors from '../SharedStyles.module.css';
 import selectors from './AboutMe.module.css';
-import photo from '../../../assets/images/degisew-photo.jpg';
+import photo from '../../../assets/images/Dag.jpg';
 
 const AboutMe = () => (
   <section id="about">
